@@ -1,0 +1,15 @@
+h1{
+	color: blue;
+	font-weight: bolder;
+}
+
+p{
+	font-weight: !important;
+	color: red;
+}
+
+li{
+	color: green;
+	font-style: italic;
+	font-weight: bold;
+}
